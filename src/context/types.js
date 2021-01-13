@@ -1,0 +1,6 @@
+export const ADD_CALCRATE = "ADD_CALCRATE";
+export const REMOVE_CALCRATE = "REMOVE_CALCRATE";
+export const SET_CALCRATE = "SET_CALCRATE";
+export const ADD_CALCLIST = "ADD_CALCLIST";
+export const REMOVE_CALCLIST = "REMOVE_CALCLIST";
+export const SET_CALCLIST = "SET_CALCLIST";
